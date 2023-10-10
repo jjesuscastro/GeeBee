@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "68615661905",
+    "firebase_url": "https://geebee-2bae0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "geebee-2bae0",
+    "storage_bucket": "geebee-2bae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68615661905:android:76809d32f3b3627160cb70",
+        "android_client_info": {
+          "package_name": "com.DLSU.GeeBee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWHDNM_-TQZpEBfQdf0-0pkC1Sn40ED8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
